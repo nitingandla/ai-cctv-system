@@ -1,0 +1,8 @@
+ultralytics
+opencv-python
+supabase
+python-dotenv
+streamlit
+streamlit-autorefresh
+pandas
+winsound        # built-in on Windows
