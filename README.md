@@ -1,4 +1,4 @@
-#  AI CCTV System — with Supabase Alert Logging
+#  AI CCTV System 
 
 An AI-powered surveillance system using **YOLOv8** that detects persons in a video feed, monitors a restricted zone, and raises alerts for **intrusion**, **crowd**, and **fight** events — with a beep alarm and database logging.
 
